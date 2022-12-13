@@ -1,12 +1,10 @@
 # PyUnify
-### A Python Tool To Understand And Guide Your Experience With Data
+### A Python Tool To Easily Use The JSON-Unify specification
 
-### JSON-Unify makes it easy to:
-- Define concepts
-- Add metadata
-- Clean data
+### V1 Notebook
+https://github.com/pyunify/notebooks/blob/main/PyUnify_v1.ipynb
 
-### A Day In The Life Of A Data User
+### Why use PyUnify
 - You open up a data set
 - You have no idea what the columns mean
 - You have no idea what is valuable, or what is missing
